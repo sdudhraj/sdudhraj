@@ -18,11 +18,11 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=terraform" alt="icon" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=light" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=light" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=light" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sdudhraj/perceptron/master/logo/working_gif_image.gif">
