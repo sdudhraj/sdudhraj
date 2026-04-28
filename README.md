@@ -8,23 +8,23 @@ I work as a Senior Data Engineer and certified AWS Developer/Consultant with 7+ 
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws,python,docker,mysql,azure,pytorch" alt="AWS" width="50" height="50" />
+  <!-- <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="REST API" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" /> -->
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=sklearn,jupyter,nix,terraform,debian,gitlab" alt="Azure" width="50" height="50" />
+  <!-- <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50" height="50" /> -->
 </div>
 
 
