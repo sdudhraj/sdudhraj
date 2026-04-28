@@ -9,22 +9,12 @@ I work as a Senior Data Engineer and certified AWS Developer/Consultant with 7+ 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,python,docker,mysql,azure,pytorch"/>
-  <!-- <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="REST API" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" /> -->
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=sklearn,jupyter,nix,terraform,debian,gitlab"/>
-  <!-- <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50" height="50" /> -->
 </div>
 
 
@@ -67,7 +57,7 @@ I work as a Senior Data Engineer and certified AWS Developer/Consultant with 7+ 
 
 - Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,snowflake" alt="MySQL, PostgreSQL, Snowflake" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,nix" alt="MySQL, PostgreSQL, Snowflake" />
 </p>
 
 - Cloud Infrastructure
